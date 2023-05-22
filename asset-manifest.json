@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bookTicketWebUsingReact/static/css/main.f00af1e6.css",
+    "main.js": "/bookTicketWebUsingReact/static/js/main.8675245c.js",
+    "index.html": "/bookTicketWebUsingReact/index.html",
+    "main.f00af1e6.css.map": "/bookTicketWebUsingReact/static/css/main.f00af1e6.css.map",
+    "main.8675245c.js.map": "/bookTicketWebUsingReact/static/js/main.8675245c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f00af1e6.css",
+    "static/js/main.8675245c.js"
+  ]
+}
